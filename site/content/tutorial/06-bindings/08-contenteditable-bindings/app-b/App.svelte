@@ -7,7 +7,7 @@
 	bind:innerHTML={html}
 ></div>
 
-<pre>{html}</pre>
+<pre>{@html html}</pre>
 
 <style>
 	[contenteditable] {
